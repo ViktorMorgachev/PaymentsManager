@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PaymentsManager</string>
+    <string name="add_payment">Добавить оплату</string>
+</resources>
